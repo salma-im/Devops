@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D0C9-4F58
+
+ R‚pertoire de C:\Users\pc\Desktop\Devops
+
+05/03/2024  17:24    <DIR>          .
+05/03/2024  17:24    <DIR>          ..
+05/03/2024  17:24               471 fich1.txt
+05/03/2024  17:24               518 fich2.txt
+05/03/2024  17:24                 0 fich3.txt
+05/03/2024  17:14                 0 fichier.txt
+05/03/2024  17:15               424 fichier1.txt
+               5 fichier(s)            1ÿ413 octets
+               2 R‚p(s)   7ÿ803ÿ297ÿ792 octets libres
